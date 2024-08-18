@@ -1,3 +1,6 @@
+NOTE: This is a fork of the latest MIT-licensed version of DbGate.
+Original Readme follows.
+
 [![NPM version](https://img.shields.io/npm/v/dbgate-serve.svg)](https://www.npmjs.com/package/dbgate-serve)
 ![GitHub All Releases](https://img.shields.io/github/downloads/dbgate/dbgate/total) 
 [![dbgate](https://snapcraft.io/dbgate/badge.svg)](https://snapcraft.io/dbgate)
